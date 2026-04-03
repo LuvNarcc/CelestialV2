@@ -11,7 +11,3 @@ local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or
 To obtain a license key first head over to https://getcelestial.xyz/dashboard, register an account and then hit "Gen Key" on your dashboard
 
 The bot will guide you through the authentication process.
-
-# 💬 Join Our Community
-Connect with us and get support by joining our official Discord server:  
-https://discord.gg/FhKCM8qWgW
